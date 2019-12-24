@@ -220,7 +220,7 @@ for j in s:
 print("second max",Min)
 
 
-S='VISHAL'
+S='VISHAL swatiiii'
 n=len(S)
 i=n-1
 while -i <=0:

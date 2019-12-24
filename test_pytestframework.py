@@ -186,6 +186,7 @@
 
 #####swatiii
 ####pawar
+p=[1,3,5,7,9]
 s=[10,15,20,30,40,50,45]
 max=min=s[0]
 first=second=0
